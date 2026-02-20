@@ -1,8 +1,9 @@
 funcA{
-
+local change
 }
 
 funcB{
+local change
 
 }
 
