@@ -1,9 +1,11 @@
 funcA{
+PR changes 
 local change
 }
 
 funcB{
 remote change 
+PR changes
 }
 
 funcC{
