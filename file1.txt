@@ -12,10 +12,15 @@ remote change
 local change 2
 PR changes
 }
+more local changes
 
-bla bla bla 
+bla bla bla
 
 funcC{
 remote change
+more local changes
 local change 2
 }
+
+
+more local changes
