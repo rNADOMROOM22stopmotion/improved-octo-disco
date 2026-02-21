@@ -1,11 +1,14 @@
 funcA{
+local change 2
 local change
 }
 
 funcB{
 remote change 
+local change 2
 }
 
 funcC{
 remote change
+local change 2
 }
